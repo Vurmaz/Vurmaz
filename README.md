@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadık Vurmaz</h1>
-<h3 align="center">A Full-stack Web developer from Turkey</h3>
+<h3 align="center">Full-stack Web developer from Turkey</h3>
 
-- 🌱 I’m currently learning **next.js**
+- 🔭 I’m currently working on **Upwork**
+
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **anything about Javascript**
 
