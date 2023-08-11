@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sadık Vurmaz</h1>
 <h3 align="center">Full-stack Web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Upwork**
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **anything about Javascript**
 
-- 📫 How to reach me **sadikvurmaz@gmail.com**
+- 📫 How to reach me **info@sadikvurmaz.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
