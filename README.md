@@ -8,9 +8,9 @@
 - 💬 Ask me about **anything about Javascript**
 
 - 📫 How to reach me **info@sadikvurmaz.app**
-- 
+  
 - 👨‍💻 My Portfolio [https://www.sadikvurmaz.app](https://www.sadikvurmaz.app)
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
