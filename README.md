@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 💬 Ask me about **anything about Javascript**
 
